@@ -1,2 +1,2 @@
 # Managing Ambiguity Algorithm
-Supplementary code to the paper submitted to the Ivannikov ISP RAS Open Conference 2023
+Supplementary code and presentation to the paper submitted to the Ivannikov ISP RAS Open Conference 2023
